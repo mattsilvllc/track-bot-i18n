@@ -1,0 +1,13 @@
+#help
+? |
+    To log foods to Track, please list the foods you have eaten.
+    For example, you can say, log a glass of milk.
+    For nutritional information on any food, please specify the nutrient followed by the item.
+    For example, you can say, how much protein is in an egg.
+    To get your daily caloric report, you can say, what is my calorie report.
+    How can I help you?
+:
+  fr: |
+    Help document
+    in french language
+

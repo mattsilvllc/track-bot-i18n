@@ -1,0 +1,24 @@
+{
+  "name": "track-bot-i18n",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattsilvllc/track-bot-i18n.git"
+  },
+  "author": "Yurko Fedoriv <yfedoriv@nutritionix.com>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/mattsilvllc/track-bot-i18n/issues"
+  },
+  "homepage": "https://github.com/mattsilvllc/track-bot-i18n#readme",
+  "dependencies": {
+    "js-yaml": "^3.6.1",
+    "lodash": "^4.16.4",
+    "sprintf-js": "^1.0.3"
+  }
+}
